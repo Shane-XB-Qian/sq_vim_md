@@ -14,8 +14,16 @@
 - ./vimmd yourMdFileName
 
 
-<br>
-<br>
+
 *- shane*
-<br>
 *Wed Dec 13 20:19:39 CST 2017*
+
+
+----------------------------------------------------------
+
+
+## update
+
+- just a play, actually it's not useful too much, it can be made by vim event also or more easy ...
+
+*- shane @ 08.31.2018*
